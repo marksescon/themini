@@ -1,7 +1,7 @@
 # themini
 Mini OD/Fuzz files
 
-The following files are included this this release:
+The following files are included (as of 8/29/2022):
 - SSBSMINIPCB_BuildInstructions.pdf = Build instructions.
 - SSBSMINI_THROUGHHOLE_2022-08-21.zip = Gerber files for through-hole version of pedal.
 - ssbsmini_smt_2022-08-21.zip = Gerber files for SMT version.
