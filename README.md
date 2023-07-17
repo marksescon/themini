@@ -9,7 +9,7 @@ These are the files for fabricating a SSBS Mini clone through any services like 
 
 General Documents:
 - MINIPCB_BuildInstructions - build of materials, instructions for building including advice for a successful build
-- SSBSMini-Schematic.png - picture of the schematic
+- SSBSMINISCHEMATIC.png - picture of the schematic
 
 Files for any PCB design program like Eagle or KiCAD:
 - SSBSMINI-THROUGHHOLE.brd - PCB for PCB CAD program
